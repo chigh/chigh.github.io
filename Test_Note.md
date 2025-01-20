@@ -1,4 +1,5 @@
 ---
+title: Hello, world
 tags:
   - github
 ---
