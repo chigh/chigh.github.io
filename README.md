@@ -1,6 +1,3 @@
----
-updated: 2025-01-19T23:53:22-0500
----
 # chigh.github.io
 
 - Go to [Page2](Page2.md)
