@@ -115,20 +115,20 @@ Other options include educating friends within your networks in advance of antic
 
 We cannot control who attacks us and how, but we can choose how we respond to this new, wild world of weaponized disinformation and propaganda. With just a few changes, we can form the habits and customs that we need in order to [build resilience](https://old2.enseccoe.org/data/public/uploads/2017/03/zurnalas_no11_sp_176x250mm_3mm_2.pdf)[^build-resilience][^build-resilience-pdf] agains what is already here, and whatever is still to come.
 
-[^1984]: https://archive.org/details/GeorgeOrwells1984
-[^bullshit]: https://archive.is/N3L0V
-[^infoshum]: https://archive.is/h7rB0
-[^february]: https://archive.is/M4vIR
-[^essay]: https://archive.is/KRmUJ
-[^report]: https://archive.is/NmMVj
-[^researchers]: https://archive.is/aaG7f
-[^pointed-out]: https://archive.is/4cAsr
-[^pointed-out-pdf]: https://archive.is/X46bU
-[^hybrid-war]: https://archive.is/wccur
-[^hybrid-war-pdf]: https://archive.is/2uWmQ
-[^footnote30]: http://connections-qj.org/article/hybrid-war-high-tech-information-and-cyber-conflicts#%5Fftn30
-[^footnote31]: https://connections-qj.org/article/hybrid-war-high-tech-information-and-cyber-conflicts#%5Fftn31
-[^covid19]: https://archive.is/EswcU
-[^misinformation-dataset]: https://archive.is/7nKSR
+[^1984]: [https://archive.org/details/GeorgeOrwells1984](https://archive.org/details/GeorgeOrwells1984)
+[^bullshit]: [https://archive.is/N3L0V](https://archive.is/N3L0V)
+[^infoshum]: [https://archive.is/h7rB0](https://archive.is/h7rB0)
+[^february]: [https://archive.is/M4vIR](https://archive.is/M4vIR)
+[^essay]: [https://archive.is/KRmUJ](https://archive.is/KRmUJ)
+[^report]: [https://archive.is/NmMVj](https://archive.is/NmMVj)
+[^researchers]: [https://archive.is/aaG7f](https://archive.is/aaG7f)
+[^pointed-out]: [https://archive.is/4cAsr](https://archive.is/4cAsr)
+[^pointed-out-pdf]: [https://archive.is/X46bU](https://archive.is/X46bU)
+[^hybrid-war]: [https://archive.is/wccur](https://archive.is/wccur)
+[^hybrid-war-pdf]: [https://archive.is/2uWmQ](https://archive.is/2uWmQ)
+[^footnote30]: [https://connections-qj.org/article/hybrid-war-high-tech-information-and-cyber-conflicts#%5Fftn30](https://connections-qj.org/article/hybrid-war-high-tech-information-and-cyber-conflicts#%5Fftn30)
+[^footnote31]: [https://connections-qj.org/article/hybrid-war-high-tech-information-and-cyber-conflicts#%5Fftn31](https://connections-qj.org/article/hybrid-war-high-tech-information-and-cyber-conflicts#%5Fftn31)
+[^covid19]: [https://archive.is/EswcU](https://archive.is/EswcU)
+[^misinformation-dataset]: [https://archive.is/7nKSR](https://archive.is/7nKSR)
 [^build-resilience]: The original link is dead. They have it archved on their site.
-[^build-resilience-pdf]: https://archive.is/snsUm
+[^build-resilience-pdf]: [https://archive.is/snsUm](https://archive.is/snsUm)

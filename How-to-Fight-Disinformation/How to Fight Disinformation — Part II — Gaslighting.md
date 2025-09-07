@@ -96,24 +96,24 @@ But you cannot simply offer up facts and wait for them to vanquish gaslighters. 
 And what does [building resilience](https://www.macdonaldlaurier.ca/avoid-failure-building-societal-resilience-disinformation-subversion-policy-brief-balkan-devlen/)[^building-resilience] to [disinformation](https://www.demdigest.org/learn-to-discern-building-resilience-against-disinformation-disorientation/)[^disinformation] [attacks](https://dr.ntu.edu.sg/bitstream/10220/46093/1/CO18153.pdf)[^attacks] look like? It will look different for every country, but the [basic requirements](https://blogs.lse.ac.uk/medialse/2020/04/08/why-resilience-to-online-disinformation-varies-between-countries/)[^basic-requirements] do not change. It requires a society-wide approach, which starts with self-reflection about our own vulnerabilities as individuals and nations and empowering [independent journalism](https://www.hybridcoe.fi/wp-content/uploads/2020/07/News-Media-and-Legal-Resilience_2019_HCPaper-ISSN.pdf)[^independent-journalism] and other democratic institutions, and continues with all of us, the population at large, privately and publicly standing up for the truth both online and off. Resilience to disinformation campaigns demands stricter guidelines and rules to keep extremists, propagandists, and other information warmongers out of power. It also requires mutual aid and co-operation — as well as tolerating a certain amount of friction in the national discourse for the sake of arguing out differences. It will take education offensives, journalism foundations, and scrutiny of what renders us vulnerable. It will not be easy to do, but it must be done — because the only alternative to systemic change is losing democracy to authoritarianism altogether.
 
 
-[^accused]: https://archive.is/remNE
-[^apocryphal]: https://archive.is/https://quoteinvestigator.com/2014/07/13/truth/
-[^attacks]: https://archive.is/ul0rA
-[^banned]: https://archive.is/o3KwG
-[^basic-requirements]: https://archive.is/4yqLv
-[^brazen]: https://archive.is/JFtZH
-[^building-resilience]: https://archive.is/FGNLA
-[^debunked]: https://archive.is/BuJNz
-[^disinfo-expert]: https://archive.is/6DPbG
-[^disinformation]: https://archive.is/2V45c
-[^fake-news]: https://archive.is/djBsK
-[^gaetz]: https://archive.is/r6MHk
-[^gaslighting]: https://archive.is/AhW4u
-[^hannah-arendt]: https://archive.is/G5qu9
-[^hume]: https://archive.is/TIfOI
-[^independent-journalism]: https://archive.is/G8Uba
-[^removed]: https://archive.is/aXea9
-[^suspended]: https://archive.is/9ttZw
-[^teen-vogue]: https://archive.is/https://www.teenvogue.com/story/donald-trump-is-gaslighting-america
-[^truth-from-lies]: The original link is dead. https://archive.is/NTB3v ; https://onlinelibrary.wiley.com/doi/10.1111/ajps.12678 ;
-[^zimdars]: https://archive.is/8WQ1c
+[^accused]: [https://archive.is/remNE](https://archive.is/remNE)
+[^apocryphal]: [https://archive.is/https://quoteinvestigator.com/2014/07/13/truth/](https://archive.is/https://quoteinvestigator.com/2014/07/13/truth/)
+[^attacks]: [https://archive.is/ul0rA](https://archive.is/ul0rA)
+[^banned]: [https://archive.is/o3KwG](https://archive.is/o3KwG)
+[^basic-requirements]: [https://archive.is/4yqLv](https://archive.is/4yqLv)
+[^brazen]: [https://archive.is/JFtZH](https://archive.is/JFtZH)
+[^building-resilience]: [https://archive.is/FGNLA](https://archive.is/FGNLA)
+[^debunked]: [https://archive.is/BuJNz](https://archive.is/BuJNz)
+[^disinfo-expert]: [https://archive.is/6DPbG](https://archive.is/6DPbG)
+[^disinformation]: [https://archive.is/2V45c](https://archive.is/2V45c)
+[^fake-news]: [https://archive.is/djBsK](https://archive.is/djBsK)
+[^gaetz]: [https://archive.is/r6MHk](https://archive.is/r6MHk)
+[^gaslighting]: [https://archive.is/AhW4u](https://archive.is/AhW4u)
+[^hannah-arendt]: [https://archive.is/G5qu9](https://archive.is/G5qu9)
+[^hume]: [https://archive.is/TIfOI](https://archive.is/TIfOI)
+[^independent-journalism]: [https://archive.is/G8Uba](https://archive.is/G8Uba)
+[^removed]: [https://archive.is/aXea9](https://archive.is/aXea9)
+[^suspended]: [https://archive.is/9ttZw](https://archive.is/9ttZw)
+[^teen-vogue]: [https://archive.is/https://www.teenvogue.com/story/donald-trump-is-gaslighting-america](https://archive.is/https://www.teenvogue.com/story/donald-trump-is-gaslighting-america)
+[^truth-from-lies]: The original link is dead. [https://archive.is/NTB3v](https://archive.is/NTB3v) ; [https://onlinelibrary.wiley.com/doi/10.1111/ajps.12678](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12678)
+[^zimdars]: [https://archive.is/8WQ1c](https://archive.is/8WQ1c)
