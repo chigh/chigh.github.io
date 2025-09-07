@@ -17,6 +17,7 @@ uuid: a0482985-5e66-43a5-9ba2-87e68bd75db6
 # How to Fight Disinformation: Part II — Gaslighting
 
 by Brooke Binkowski
+published: 2021-01-18
 
 ![](images/a0482985-5e66-43a5-9ba2-87e68bd75db6-capitol-insurrection-gaslighting.jpg)
 

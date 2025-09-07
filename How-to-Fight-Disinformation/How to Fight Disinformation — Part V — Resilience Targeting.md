@@ -17,6 +17,7 @@ uuid: 5258883c-1e3f-4f31-b35d-6a1ca3484bce
 # How to Fight Disinformation — Part V: Resilience Targeting
 
 by Brooke Binkowski
+published: 2022-11-07
 
 ![](images/5258883c-1e3f-4f31-b35d-6a1ca3484bce-cropped.jpeg)
 
