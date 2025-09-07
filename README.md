@@ -6,4 +6,4 @@ title: Index
 description: mostly a test page
 ---
 
-- Go to [How to Fight Disinformation](How-to-Fight-Disinformation)
+- Go to [How to Fight Disinformation](How-to-Fight-Disinformation) by Brooke Binkowski
