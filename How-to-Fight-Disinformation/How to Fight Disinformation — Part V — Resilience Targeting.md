@@ -33,8 +33,9 @@ published: 2022-11-07
 ---
 
 ## Fact Check
-|  |  |
-| ---- | ---- |
+
+| property | description  |
+| :--- | :--- |
 | Claim | Resilience targeting is a new type of attack linked to disinformation campaigns |
 | Description | Rapid changes in the climate and technological advances have led to the emergence of hybrid threats, which blur state and non-state actors and blur the lines between war and peace. A specific type of hybrid threats is called resilience targeting, which involves purposely interfering with the ability of individuals, communities, or even entire countries, to recover after a catastrophe (whether it’s due to natural disasters or disinformation campaigns). Resilience targeting can dismantle communities overnight, proving it to be an extraordinarily robust yet cost-effective weapon that is difficult to combat. |
 | Rating | True |
