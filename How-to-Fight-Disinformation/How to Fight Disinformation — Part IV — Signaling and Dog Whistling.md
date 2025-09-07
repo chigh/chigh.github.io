@@ -133,6 +133,7 @@ Berkeley law professor [Ian Haney López](https://news.berkeley.edu/2020/10/28/i
 
 That makes defeating signaling and dog whistling (as with defeating all disinformation campaign tactics) simple, if not easy. Given that these corrosive actions prey entirely on existing social problems such as racism and inequality, it is the best and may be the only effective way fight them — by demanding of leaders and public figures that global societies are characterized by egalitarianism, anti-corruption, transparency, and honest messaging in the name of global security, and by refusing to settle for anything less.
 
+<hr/>
 
 [^alternative-facts]: alternative-facts: [https://archive.is/eahHW](https://archive.is/eahHW)
 [^bethany-albertson]: bethany albertson: The original link is dead.

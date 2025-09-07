@@ -159,6 +159,7 @@ Don’t let them.
 # Related
 - [What Is Resilience Targeting? Psychology Today](<https://www.psychologytoday.com/intl/blog/flipping-out/202501/what-is-resilience-targeting (added 2025-02-01)>)[^psychology-today] (added 2025-02-01)
 
+<hr/>
 
 [^2019-story]: [https://archive.is/nTsba](https://archive.is/nTsba)
 [^2020-gen-election]: [https://archive.is/z1mPQ](https://archive.is/z1mPQ)

@@ -97,6 +97,8 @@ Forewarning is the best defense against all of these techniques. As in every asp
 
 You may want to argue with people being loudly and smugly wrong online. There is a definite utility to such arguments. In the case of a major distraction or derailing attempt, however, remember that the main goal is to exhaust you and that you are not arguing with somebody who is acting in good faith. Instead, refuse to engage with that aspect of the discussion and stay on the actual topic. Remember, the more you type, the information you give social media platforms which they can then use to influence or manipulate your worldview. Parlay the emotions evoked by reports or events into real-world actions — public pressure or protests, for example — instead of online arguments, and stick with people you know to be credible and who have some degree of demonstrated expertise in the subject matter being discussed (particularly when it is a topic as prone to disinformation attacks as border and immigration.) Spectacle can interfere with memories of events, but spectacle quickly falls away — whereas reality tends to have staying power.
 
+<hr/>
+
 [^alternate]: [marketing.wharton.upenn.edu pdf download](https://marketing.wharton.upenn.edu/wp-content/uploads/2021/01/Rand-David-PAPER-1-asking-accuracy-paper_psyarxiv_v4.pdf)
 [^announcement]: [https://archive.is/SdeOR](https://archive.is/SdeOR)
 [^herbet-simon]: [https://archive.is/fzes0](https://archive.is/fzes0)

@@ -115,6 +115,8 @@ Other options include educating friends within your networks in advance of antic
 
 We cannot control who attacks us and how, but we can choose how we respond to this new, wild world of weaponized disinformation and propaganda. With just a few changes, we can form the habits and customs that we need in order to [build resilience](https://old2.enseccoe.org/data/public/uploads/2017/03/zurnalas_no11_sp_176x250mm_3mm_2.pdf)[^build-resilience][^build-resilience-pdf] agains what is already here, and whatever is still to come.
 
+<hr/>
+
 [^1984]: [https://archive.org/details/GeorgeOrwells1984](https://archive.org/details/GeorgeOrwells1984)
 [^bullshit]: [https://archive.is/N3L0V](https://archive.is/N3L0V)
 [^infoshum]: [https://archive.is/h7rB0](https://archive.is/h7rB0)
