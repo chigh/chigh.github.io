@@ -5,4 +5,3 @@ uuid: 8805aaf3-0457-485d-aeb8-42892b13e65f
 ---
 - Go to [Page2](Page2.md)
 - [Test Note](Test_Note.md)
-- [Where the Wild Things Are](where-the-wild-things-are.md)
