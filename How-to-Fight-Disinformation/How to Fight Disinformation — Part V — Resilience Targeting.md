@@ -159,30 +159,30 @@ Don’t let them.
 - [What Is Resilience Targeting? Psychology Today](<https://www.psychologytoday.com/intl/blog/flipping-out/202501/what-is-resilience-targeting (added 2025-02-01)>)[^psychology-today] (added 2025-02-01)
 
 
-[^2019-story]: https://archive.is/nTsba
-[^2020-gen-election]: https://archive.is/z1mPQ
-[^agendas]: https://archive.is/RgdLj
-[^agree]: https://archive.is/b05cv
-[^anti-masking]: https://archive.is/bfnM4
-[^blur-boundaries]: https://archive.is/JR9Iz
-[^climate]: https://archive.is/JMJh8
-[^critical-race-theory]: https://archive.is/HBEBF
+[^2019-story]: [https://archive.is/nTsba](https://archive.is/nTsba)
+[^2020-gen-election]: [https://archive.is/z1mPQ](https://archive.is/z1mPQ)
+[^agendas]: [https://archive.is/RgdLj](https://archive.is/RgdLj)
+[^agree]: [https://archive.is/b05cv](https://archive.is/b05cv)
+[^anti-masking]: [https://archive.is/bfnM4](https://archive.is/bfnM4)
+[^blur-boundaries]: [https://archive.is/JR9Iz](https://archive.is/JR9Iz)
+[^climate]: [https://archive.is/JMJh8](https://archive.is/JMJh8)
+[^critical-race-theory]: [https://archive.is/HBEBF](https://archive.is/HBEBF)
 [^disaster-security]: [openlibrary.org](https://openlibrary.org/books/OL28712395M/Disaster_Security)
-[^displacement]: https://archive.is/vJ0sx
-[^exacerbating-pdf]: https://archive.is/z4TL2
-[^front]: https://archive.is/gVjDL
-[^granaries]: https://archive.is/VEZyR
-[^introduction]: [[Github/How to Fight Disinfomation/How to Fight Disinformation — Introduction and Overview]]
-[^jstor-pdf]: https://archive.is/QmJDX
-[^maldives-disappear]: https://archive.is/zz9XR
-[^mobs]: https://archive.is/V35pT
-[^narratives]: https://archive.is/2TJ9F
-[^potable-water]: https://archive.is/v98W8
-[^psychology-today]: https://archive.is/HI8E7
+[^displacement]: [https://archive.is/vJ0sx](https://archive.is/vJ0sx)
+[^exacerbating-pdf]: [https://archive.is/z4TL2](https://archive.is/z4TL2)
+[^front]: [https://archive.is/gVjDL](https://archive.is/gVjDL)
+[^granaries]: [https://archive.is/VEZyR](https://archive.is/VEZyR)
+[^introduction]: [Introduction](index.md)
+[^jstor-pdf]: [https://archive.is/QmJDX](https://archive.is/zz9XR)
+[^maldives-disappear]: [https://archive.is/zz9XR](https://archive.is/zz9XR)
+[^mobs]: [https://archive.is/V35pT](https://archive.is/V35pT)
+[^narratives]: [https://archive.is/2TJ9F](https://archive.is/2TJ9F)
+[^potable-water]: [https://archive.is/v98W8](https://archive.is/v98W8)
+[^psychology-today]: [https://archive.is/HI8E7](https://archive.is/HI8E7)
 [^radical-compassion]: same as introduction, the original link is dead, located what I think is the correct link.
-[^risk-index]: https://archive.is/QqZpG Original link was broken and dead.
-[^roadblocks]: https://archive.is/8IvlQ
-[^storm-cleanup]: https://archive.is/vzqy6
-[^students]: https://archive.is/y57fo
-[^timespan-pdf]: https://archive.is/ikAcR
-[^tutushki]: https://archive.is/24Cq8
+[^risk-index]: [https://archive.is/QqZpG](https://archive.is/8IvlQ) Original link was broken and dead.
+[^roadblocks]: [https://archive.is/8IvlQ](https://archive.is/8IvlQ)
+[^storm-cleanup]: [https://archive.is/vzqy6](https://archive.is/vzqy6)
+[^students]: [https://archive.is/y57fo](https://archive.is/y57fo)
+[^timespan-pdf]: [https://archive.is/ikAcR](https://archive.is/ikAcR)
+[^tutushki]: [https://archive.is/24Cq8](https://archive.is/24Cq8)

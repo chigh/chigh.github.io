@@ -134,28 +134,28 @@ Berkeley law professor [Ian Haney López](https://news.berkeley.edu/2020/10/28/i
 That makes defeating signaling and dog whistling (as with defeating all disinformation campaign tactics) simple, if not easy. Given that these corrosive actions prey entirely on existing social problems such as racism and inequality, it is the best and may be the only effective way fight them — by demanding of leaders and public figures that global societies are characterized by egalitarianism, anti-corruption, transparency, and honest messaging in the name of global security, and by refusing to settle for anything less.
 
 
-[^alternative-facts]: alternative-facts: https://archive.is/eahHW
+[^alternative-facts]: alternative-facts: [https://archive.is/eahHW](https://archive.is/eahHW)
 [^bethany-albertson]: bethany albertson: The original link is dead.
-[^connotations]: connotations: https://archive.is/GBNHD
-[^danah-pdf]: danah-pdf: https://archive.is/ES3uP
-[^dog-whistle-politics]: dog whistle politics: https://ianhaneylopez.com/books-items/dog-whistle-politics
-[^dog-whistle]: dog-whistle 1:https://archive.is/vB8Mh
-[^effect]: effect: https://archive.is/HLQoK
+[^connotations]: connotations: [https://archive.is/GBNHD](https://archive.is/GBNHD)
+[^danah-pdf]: danah-pdf: [https://archive.is/ES3uP](https://archive.is/ES3uP)
+[^dog-whistle-politics]: dog whistle politics: [https://ianhaneylopez.com/books-items/dog-whistle-politics](https://ianhaneylopez.com/books-items/dog-whistle-politics)
+[^dog-whistle]: dog-whistle 1: [https://archive.is/vB8Mh](https://archive.is/vB8Mh)
+[^effect]: effect: [https://archive.is/HLQoK](https://archive.is/HLQoK)
 [^even-more-dogwhistles]: [academia.edu](https://www.academia.edu/43213226/Race_and_policing_in_the_2016_presidential_election_Black_lives_matter_the_police_and_dog_whistle_politics)
-[^explainer]: explainer: https://archive.is/2fl6q
-[^ian-haney-lopez]: ian lopez: https://archive.is/4hANw
-[^kek]: kek: https://archive.is/xnVJj
-[^know-your-meme]: know-your-meme: https://archive.is/EP1C7
-[^method]: method: https://archive.is/FCZra
-[^milo]: milo: https://archive.is/Ms1sC
+[^explainer]: explainer: [https://archive.is/2fl6q](https://archive.is/2fl6q)
+[^ian-haney-lopez]: ian lopez: [https://archive.is/4hANw](https://archive.is/4hANw)
+[^kek]: kek: [https://archive.is/xnVJj](https://archive.is/xnVJj)
+[^know-your-meme]: know-your-meme: [https://archive.is/EP1C7](https://archive.is/EP1C7)
+[^method]: method: [https://archive.is/FCZra](https://archive.is/FCZra)
+[^milo]: milo: [https://archive.is/Ms1sC](https://archive.is/Ms1sC)
 [^more-dog-whistles]: downloadable PDF: [researchgate.net](https://www.researchgate.net/publication/309733967_Race_Justice_Policing_and_the_2016_American_Presidential_Election)
-[^news-coverage]: news coverage: https://archive.is/0hpmB
-[^ok-sign2]: OK sign 2: https://archive.is/SZAyf
-[^ok-sign]: OK sign: https://archive.is/4O5pb
-[^paper]: paper: https://archive.is/wnckw
-[^pepe]: pepe: https://archive.is/SBz6x
-[^photographs]: photographs: https://archive.is/j8xBu
-[^skepticism]:  skepticism: https://archive.is/elxSp
-[^tactic]: tactic: https://archive.is/YHYfR
-[^why]: why: https://archive.is/ppMCE
-[^willie-horton]: https://archive.is/x0Wd5
+[^news-coverage]: news coverage: [https://archive.is/0hpmB](https://archive.is/0hpmB)
+[^ok-sign2]: OK sign 2: [https://archive.is/SZAyf](https://archive.is/SZAyf)
+[^ok-sign]: OK sign: [https://archive.is/4O5pb](https://archive.is/4O5pb)
+[^paper]: paper: [https://archive.is/wnckw](https://archive.is/wnckw)
+[^pepe]: pepe: [https://archive.is/SBz6x](https://archive.is/SBz6x)
+[^photographs]: photographs: [https://archive.is/j8xBu](https://archive.is/j8xBu)
+[^skepticism]:  skepticism: [https://archive.is/elxSp](https://archive.is/elxSp)
+[^tactic]: tactic: [https://archive.is/YHYfR](https://archive.is/YHYfR)
+[^why]: why: [https://archive.is/ppMCE](https://archive.is/ppMCE)
+[^willie-horton]: [https://archive.is/x0Wd5](https://archive.is/x0Wd5)
