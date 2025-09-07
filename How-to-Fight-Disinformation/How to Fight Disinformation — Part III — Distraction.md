@@ -14,11 +14,11 @@ updated: 2025-01-27T12:59:22-0500
 uuid: 296b4051-011d-4ae7-9f84-4d0a87ff1a1b
 ---
 
-![](images/296b4051-011d-4ae7-9f84-4d0a87ff1a1b-01.jpeg)
-
 # How to Fight Disinformation — Part III: Distraction
 
 by Brooke Binkowski
+
+![](images/296b4051-011d-4ae7-9f84-4d0a87ff1a1b-01.jpeg)
 
 ***This is part of [an ongoing series](https://web.archive.org/web/20230211191932/https://www.truthorfiction.com/how-to-fight-disinformation-introduction-and-overview/) about how communities can fight back and protect themselves against weaponized disinformation.***
 

@@ -14,11 +14,11 @@ updated: 2025-02-01T12:29:10-0500
 uuid: 5258883c-1e3f-4f31-b35d-6a1ca3484bce
 ---
 
-![](images/5258883c-1e3f-4f31-b35d-6a1ca3484bce-cropped.jpeg)
-
 # How to Fight Disinformation — Part V: Resilience Targeting
 
 by Brooke Binkowski
+
+![](images/5258883c-1e3f-4f31-b35d-6a1ca3484bce-cropped.jpeg)
 
 ***This is part of [an ongoing series](https://web.archive.org/web/20230211191932/https://www.truthorfiction.com/how-to-fight-disinformation-introduction-and-overview/) about how communities can fight back and protect themselves against weaponized disinformation.***
 

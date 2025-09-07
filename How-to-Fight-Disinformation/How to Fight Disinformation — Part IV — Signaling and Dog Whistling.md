@@ -14,11 +14,11 @@ updated: 2025-01-27T12:30:58-0500
 uuid: 52a6720a-6c22-4e01-9db7-77264996b46f
 ---
 
-![](images/52a6720a-6c22-4e01-9db7-77264996b46f-logo-ii.png)
-
 # How to Fight Disinformation — Part IV: Signaling and Dog Whistling
 
 by Brooke Binkowski
+
+![](images/52a6720a-6c22-4e01-9db7-77264996b46f-logo-ii.png)
 
 ***This is part of [an ongoing series](https://web.archive.org/web/20230211191932/https://www.truthorfiction.com/how-to-fight-disinformation-introduction-and-overview/) about how communities can fight back and protect themselves against weaponized disinformation.***
 

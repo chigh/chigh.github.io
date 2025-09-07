@@ -14,11 +14,11 @@ source:
 uuid: a0482985-5e66-43a5-9ba2-87e68bd75db6
 ---
 
-![](images/a0482985-5e66-43a5-9ba2-87e68bd75db6-capitol-insurrection-gaslighting.jpg)
-
 # How to Fight Disinformation: Part II — Gaslighting
 
 by Brooke Binkowski
+
+![](images/a0482985-5e66-43a5-9ba2-87e68bd75db6-capitol-insurrection-gaslighting.jpg)
 
 ***This is part of [an ongoing series](https://web.archive.org/web/20230211191932/https://www.truthorfiction.com/how-to-fight-disinformation-introduction-and-overview/) about how communities can fight back and protect themselves against weaponized disinformation.***
 
