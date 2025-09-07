@@ -70,12 +70,12 @@ These strategies are part of what has come to be called [_building resilience_](
 In this series, we will discuss the different forms of resilience and offer suggestions and solutions for dealing with information warfare and hybrid threats in your everyday life.
 
 [^building-resilience]: [https://archive.is/wKteO](https://archive.is/wKteO)
-[^dictionary]: https://archive.is/SGAdb
-[^gdpr]: https://archive.is/rEbGI
+[^dictionary]: [https://archive.is/SGAdb](https://archive.is/SGAdb)
+[^gdpr]: [https://archive.is/rEbGI](https://archive.is/rEbGI)
 [^hybrid-warfare]: The oiginal link is dead; they have it on their archive.
-[^hybridcoe]: https://archive.is/JR9Iz
-[^modeling]: https://archive.is/ybo1B
-[^nudge]: https://archive.is/eJBKL
-[^radical-compassion]: https://siyli.org/resources/resilience/tag/compassion The original link is dead. These are the closest things I could find.
-[^russian-military]: https://archive.is/VypGZ
-[^strongman]: https://archive.is/i5c6a
+[^hybridcoe]: [https://archive.is/JR9Iz](https://archive.is/JR9Iz)
+[^modeling]: [https://archive.is/ybo1B](https://archive.is/ybo1B)
+[^nudge]: [https://archive.is/eJBKL](https://archive.is/eJBKL)
+[^radical-compassion]: [https://siyli.org/resources/resilience/tag/compassion](https://siyli.org/resources/resilience/tag/compassion) The original link is dead. These are the closest things I could find.
+[^russian-military]: [https://archive.is/VypGZ](https://archive.is/VypGZ)
+[^strongman]: [https://archive.is/i5c6a](https://archive.is/i5c6a)
