@@ -7,3 +7,4 @@ uuid: 8805aaf3-0457-485d-aeb8-42892b13e65f
 # A test of testing tests.
 
 - Go to [Page2](Page2.md)
+- Go to [How to Fight Disinformation](Hot%20to%20Fight%20Disinformation)
