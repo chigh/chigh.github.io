@@ -16,17 +16,17 @@ uuid: 5b373641-4033-4a3a-b7cd-5cccb4630fe0
 
 |                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------- |
-| ![[Github/How to Fight Disinfomation/images/5b373641-4033-4a3a-b7cd-5cccb4630fe0-disinformation-firehosing-and-how-to-fight-it.jpg]] |
+| ![[Github/How-to-Fight-Disinfomation/images/5b373641-4033-4a3a-b7cd-5cccb4630fe0-disinformation-firehosing-and-how-to-fight-it.jpg]] |
 # How to Fight Disinformation — Part I: Firehosing
 
 ***This is part of [an ongoing series](https://web.archive.org/web/20230211191932/https://www.truthorfiction.com/how-to-fight-disinformation-introduction-and-overview/) about how communities can fight back and protect themselves against weaponized disinformation.***
 
-- Part 0: [[Github/How to Fight Disinfomation/How to Fight Disinformation — Introduction and Overview|Introduction]]
-- Part I: [[Github/How to Fight Disinfomation/How to Fight Disinformation — Part I — Firehosing|Firehosing]]
-- Part II: [[Github/How to Fight Disinfomation/How to Fight Disinformation — Part II — Gaslighting|Gaslighting]]
-- Part Ⅲ: [[Github/How to Fight Disinfomation/How to Fight Disinformation — Part III — Distraction|Distraction]]
-- Part IV: [[Github/How to Fight Disinfomation/How to Fight Disinformation — Part IV — Signaling and Dog Whistling|Signaling and Dog Whistling]]
-- Part V: [[Github/How to Fight Disinfomation/How to Fight Disinformation — Part V — Resilience Targeting|Resilience Targeting]]
+- Part 0: [[Github/How-to-Fight-Disinfomation/How to Fight Disinformation - Introduction and Overview|Introduction]]
+- Part I: [[Github/How-to-Fight-Disinfomation/How to Fight Disinformation - Part I - Firehosing|Firehosing]]
+- Part II: [[Github/How-to-Fight-Disinfomation/How to Fight Disinformation - Part II - Gaslighting|Gaslighting]]
+- Part Ⅲ: [[Github/How-to-Fight-Disinfomation/How to Fight Disinformation - Part III - Distraction|Distraction]]
+- Part IV: [[Github/How-to-Fight-Disinfomation/How to Fight Disinformation - Part IV - Signaling and Dog Whistling|Signaling and Dog Whistling]]
+- Part V: [[Github/How-to-Fight-Disinfomation/How to Fight Disinformation - Part V - Resilience Targeting|Resilience Targeting]]
 
 ---
 
