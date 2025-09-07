@@ -18,14 +18,16 @@ uuid: 296b4051-011d-4ae7-9f84-4d0a87ff1a1b
 
 # How to Fight Disinformation — Part III: Distraction
 
+by Brooke Binkowski
+
 ***This is part of [an ongoing series](https://web.archive.org/web/20230211191932/https://www.truthorfiction.com/how-to-fight-disinformation-introduction-and-overview/) about how communities can fight back and protect themselves against weaponized disinformation.***
 
-- Part 0: [Introduction](How to Fight Disinformation - Introduction and Overview.html)
-- Part I: [Part I - Firehosing](How to Fight Disinformation - Part I - Firehosing.html)
-- Part II: [Part II - Gaslighting](How to Fight Disinformation - Part II - Gaslighting.html)
-- Part Ⅲ: [Part III - Distraction](How to Fight Disinformation - Part III - Distraction.html)
-- Part IV: [Part IV - Signaling and Dog Whistling](How to Fight Disinformation - Part IV - Signaling and Dog Whistling.html)
-- Part V: [Part V - Resilience Targeting](How to Fight Disinformation - Part V - Resilience Targeting.html)
+- Part 0: [Introduction](How to Fight Disinformation — Introduction and Overview.html)
+- Part I: [Part I - Firehosing](How to Fight Disinformation — Part I — Firehosing.html)
+- Part II: [Part II - Gaslighting](How to Fight Disinformation — Part II — Gaslighting.html)
+- Part Ⅲ: [Part III - Distraction](How to Fight Disinformation — Part III — Distraction.html)
+- Part IV: [Part IV - Signaling and Dog Whistling](How to Fight Disinformation — Part IV — Signaling and Dog Whistling.html)
+- Part V: [Part V - Resilience Targeting](How to Fight Disinformation — Part V — Resilience Targeting.html)
 
 ---
 
