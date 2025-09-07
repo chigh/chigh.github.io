@@ -14,7 +14,7 @@ updated: 2025-01-27T12:30:45-0500
 uuid: b701e397-7e76-4bd1-b8c9-b51c3508c254
 ---
 
-![](Github/How-to-Fight-Disinfomation/images/b701e397-7e76-4bd1-b8c9-b51c3508c254-01.jpg)
+![](images/b701e397-7e76-4bd1-b8c9-b51c3508c254-01.jpg)
 
 # How to Fight Disinformation: Introduction and Overview
 

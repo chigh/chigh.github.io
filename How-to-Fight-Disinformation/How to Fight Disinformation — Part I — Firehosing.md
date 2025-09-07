@@ -14,7 +14,7 @@ updated: 2025-08-18T20:54:50-0400
 uuid: 5b373641-4033-4a3a-b7cd-5cccb4630fe0
 ---
 
-![](Github/How-to-Fight-Disinfomation/images/5b373641-4033-4a3a-b7cd-5cccb4630fe0-disinformation-firehosing-and-how-to-fight-it.jpg)
+![](images/5b373641-4033-4a3a-b7cd-5cccb4630fe0-disinformation-firehosing-and-how-to-fight-it.jpg)
 
 # How to Fight Disinformation — Part I: Firehosing
 

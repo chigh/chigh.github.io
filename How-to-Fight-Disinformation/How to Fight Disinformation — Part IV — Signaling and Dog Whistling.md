@@ -1,7 +1,7 @@
 ---
 title: "How to Fight Disinformation — Part IV: Signaling and Dog Whistling"
 author: Brooke Binkowski
-date: 2022-01-24
+date-published: 2022-01-24
 source:
   - https://www.truthorfiction.com/how-to-fight-disinformation-part-iv-signaling-and-dog-whistling/
 tags:

@@ -14,7 +14,7 @@ updated: 2025-01-27T12:30:45-0500
 uuid: b701e397-7e76-4bd1-b8c9-b51c3508c254
 ---
 
-![](Github/How-to-Fight-Disinfomation/images/b701e397-7e76-4bd1-b8c9-b51c3508c254-01.jpg)
+![](images/b701e397-7e76-4bd1-b8c9-b51c3508c254-01.jpg)
 
 # How to Fight Disinformation: Introduction and Overview
 
@@ -23,7 +23,7 @@ uuid: b701e397-7e76-4bd1-b8c9-b51c3508c254
 - Part 0: [Introduction](How to Fight Disinformation — Introduction and Overview.html)
 - Part I: [Part I - Firehosing](How to Fight Disinformation — Part I — Firehosing.html)
 - Part II: [Part II - Gaslighting](How to Fight Disinformation — Part II — Gaslighting.html)
-- Part Ⅲ: [Part III - Distraction](How to Fight Disinformation — Part III — Distraction.html)
+- Part Ⅲ: [Part III - Distraction](How to Fight Disinformation - Part III - Distraction.html)
 - Part IV: [Part IV - Signaling and Dog Whistling](How to Fight Disinformation — Part IV — Signaling and Dog Whistling.html)
 - Part V: [Part V - Resilience Targeting](How to Fight Disinformation — Part V — Resilience Targeting.html)
 
