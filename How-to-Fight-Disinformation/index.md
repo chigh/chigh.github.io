@@ -69,6 +69,8 @@ These strategies are part of what has come to be called [_building resilience_](
 
 In this series, we will discuss the different forms of resilience and offer suggestions and solutions for dealing with information warfare and hybrid threats in your everyday life.
 
+<hr/>
+
 [^building-resilience]: [https://archive.is/wKteO](https://archive.is/wKteO)
 [^dictionary]: [https://archive.is/SGAdb](https://archive.is/SGAdb)
 [^gdpr]: [https://archive.is/rEbGI](https://archive.is/rEbGI)
