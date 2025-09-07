@@ -20,12 +20,12 @@ uuid: b701e397-7e76-4bd1-b8c9-b51c3508c254
 
 ***This is a series about how communities can fight back and protect themselves against weaponized disinformation.***
 
-- Part 0: [Introduction](How to Fight Disinformation — Introduction and Overview.md)
-- Part I: [Part I - Firehosing](How to Fight Disinformation — Part I — Firehosing.md)
-- Part II: [Part II - Gaslighting](How to Fight Disinformation — Part II — Gaslighting.md)
-- Part Ⅲ: [Part III - Distraction](How to Fight Disinformation — Part III — Distraction.md)
-- Part IV: [Part IV - Signaling and Dog Whistling](How to Fight Disinformation — Part IV — Signaling and Dog Whistling.md)
-- Part V: [Part V - Resilience Targeting](How to Fight Disinformation — Part V — Resilience Targeting.md)
+- Part 0: [Introduction](How to Fight Disinformation — Introduction and Overview.html)
+- Part I: [Part I - Firehosing](How to Fight Disinformation — Part I — Firehosing.html)
+- Part II: [Part II - Gaslighting](How to Fight Disinformation — Part II — Gaslighting.html)
+- Part Ⅲ: [Part III - Distraction](How to Fight Disinformation — Part III — Distraction.html)
+- Part IV: [Part IV - Signaling and Dog Whistling](How to Fight Disinformation — Part IV — Signaling and Dog Whistling.html)
+- Part V: [Part V - Resilience Targeting](How to Fight Disinformation — Part V — Resilience Targeting.html)
 
 --- 
 
