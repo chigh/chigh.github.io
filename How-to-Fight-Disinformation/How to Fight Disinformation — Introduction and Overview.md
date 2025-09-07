@@ -16,8 +16,7 @@ uuid: b701e397-7e76-4bd1-b8c9-b51c3508c254
 
 # How to Fight Disinformation: Introduction and Overview
 
-by Brooke Binkowski
-published: 2020-11-23
+by Brooke Binkowski | published: 2020-11-23
 
 ![](images/b701e397-7e76-4bd1-b8c9-b51c3508c254-01.jpg)
 

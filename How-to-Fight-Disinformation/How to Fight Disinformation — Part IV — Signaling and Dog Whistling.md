@@ -16,8 +16,7 @@ uuid: 52a6720a-6c22-4e01-9db7-77264996b46f
 
 # How to Fight Disinformation — Part IV: Signaling and Dog Whistling
 
-by Brooke Binkowski
-published: 2022-01-24
+by Brooke Binkowski | published: 2022-01-24
 
 ![](images/52a6720a-6c22-4e01-9db7-77264996b46f-logo-ii.png)
 

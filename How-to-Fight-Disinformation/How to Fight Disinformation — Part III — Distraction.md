@@ -16,8 +16,7 @@ uuid: 296b4051-011d-4ae7-9f84-4d0a87ff1a1b
 
 # How to Fight Disinformation — Part III: Distraction
 
-by Brooke Binkowski
-published: 2021-09-24
+by Brooke Binkowski | published: 2021-09-24
 
 ![](images/296b4051-011d-4ae7-9f84-4d0a87ff1a1b-01.jpeg)
 

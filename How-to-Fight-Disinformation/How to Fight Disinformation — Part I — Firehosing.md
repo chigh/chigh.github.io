@@ -16,8 +16,7 @@ uuid: 5b373641-4033-4a3a-b7cd-5cccb4630fe0
 
 # How to Fight Disinformation — Part I: Firehosing
 
-by Brooke Binkowski
-published: 2020-12-04
+by Brooke Binkowski | published: 2020-12-04
 
 ![](images/5b373641-4033-4a3a-b7cd-5cccb4630fe0-disinformation-firehosing-and-how-to-fight-it.jpg)
 
