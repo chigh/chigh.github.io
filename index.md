@@ -1,3 +1,4 @@
 # Nothing to see here.
+A testbed of sorts[^1]. 
 
-- [How to Fight Disinformation](How-to-Fight-Disinformation) by Brooke Binkowski
+[^1]: [ ](How-to-Fight-Disinformation) by Brooke Binkowski
